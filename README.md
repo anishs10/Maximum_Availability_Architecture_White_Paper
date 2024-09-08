@@ -54,6 +54,9 @@ Maximum Availability Architecture (MAA) is Oracle's best practices blueprint for
 - **Minimized Downtime**: Reduces the impact of outages, whether planned (like patching) or unplanned (like hardware failures).
   
 - **Data Protection**: Ensures data is never lost, with various levels of protection to suit different business needs.
+
+  ****************************************************************************************************************************************************************
+  
   
 - **Disaster Recovery**: Provides robust solutions for recovering from catastrophic failures, with the ability to failover to a standby site.
   
